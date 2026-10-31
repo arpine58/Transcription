@@ -218,3 +218,17 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# --- project: never commit audio, model weights or keys (brief) ---
+*.wav
+*.mp3
+*.flac
+*.ogg
+*.m4a
+recordings/
+models/
+*.bin
+*.safetensors
+*.pt
+*.onnx
+latency.tsv

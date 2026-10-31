@@ -1,0 +1,10 @@
+numpy>=1.26
+pytest>=8
+# Install CPU torch first (see README 1.2), otherwise pip pulls CUDA builds:
+#   pip install torch==2.8.0 torchaudio==2.8.0 torchvision==0.23.0 --index-url https://download.pytorch.org/whl/cpu
+faster-whisper>=1.1
+silero-vad>=5.1
+ctranslate2>=4.4
+transformers>=4.45
+sentencepiece>=0.2
+speechbrain>=1.0
