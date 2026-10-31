@@ -1,0 +1,2 @@
+# Extra package for the model benchmark (bench/). Install after the main requirements.txt.
+jiwer>=3.0

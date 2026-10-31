@@ -1,0 +1,17 @@
+# clip_file	speaker	reference_text (Eastern Armenian, exactly what was said)
+# example:
+# clip01.wav	arpine	Բարև, ինչպե՞ս ես։
+# a path with / is relative to the repo root, e.g.:
+# recordings/20261028-202426-mic.wav	arpine	...
+clip01.wav	arpine	ես խոսում եմ հայերեն
+clip02.wav	arpine	Բարև, ինչպե՞ս ես
+clip03.wav	arpine	լավ եմ, շնորհակալություն
+clip04.wav	arpine	ես խոսում եմ հայերեն
+clip05.wav	arpine	որտե՞ղ ես հիմա
+clip06.wav	arpine	վաղը առավոտյան ժամը տասին հանդիպում ունենք
+clip07.wav	arpine	կարո՞ղ ես ինձ ուղարկել այդ փաստաթուղթը մինչև երեկո
+clip08.wav	arpine	խնդրում եմ մի քիչ դանդաղ խոսիր, լավ չեմ լսում
+clip09.wav	arpine	այսօր եղանակը շատ լավն է, բայց երեկոյան անձրև է սպասվում
+clip10.wav	arpine	մենք պետք է ավարտենք նախագիծը մինչև նոյեմբերի մեկը
+clip11.wav	arpine	ես երեք տարի աշխատել եմ որպես ծրագրավորող Երևանում
+clip12.wav	arpine	երեկ zoom-ով meeting ունեի, ու ամեն ինչ լավ անցավ
