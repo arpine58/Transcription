@@ -7,7 +7,7 @@ Goal: live Eastern Armenian → English transcription in the terminal, speaker l
 - Python. Runs on the ThinkPad T16 (Core Ultra 7 255U, 32 GB, no NVIDIA GPU, Ubuntu 24.04, PipeWire).
 - Local inference only; downloading open models at setup is fine.
 - Transcription and translation are separate steps.
-- Eastern Armenian only. Zoom in the interview, at most 2 call-side speakers.
+- Eastern Armenian only. Zoom in the interview. No assumption about the number of call-side speakers.
 - Never commit model weights, audio or keys.
 
 ## How we work
